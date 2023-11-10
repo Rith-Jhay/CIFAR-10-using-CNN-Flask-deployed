@@ -23,3 +23,7 @@ Save the trained model to an .h5 file.
 Run the Flask application (app.py) to serve predictions via a simple web API.
 
 # Application ScreenShots
+<img width="941" alt="image" src="https://github.com/Rith-Jhay/CIFAR-10-using-CNN-Flask-deployed-/assets/130302683/a26fbe53-2a80-4ade-9301-6c780d7ead34">
+<img width="943" alt="image" src="https://github.com/Rith-Jhay/CIFAR-10-using-CNN-Flask-deployed-/assets/130302683/0226b2b5-27fa-4a27-9fb5-1c13fe38c887">
+<img width="943" alt="image" src="https://github.com/Rith-Jhay/CIFAR-10-using-CNN-Flask-deployed-/assets/130302683/6f1ef467-661b-4f17-897a-a22b5a16e954">
+
