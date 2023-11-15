@@ -1,0 +1,5 @@
+Flask==2.0.1
+tensorflow
+keras
+Pillow
+Werkzeug==2.0.1
