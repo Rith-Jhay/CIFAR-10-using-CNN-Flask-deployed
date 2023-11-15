@@ -18,9 +18,9 @@ Preprocessing and normalization of image data.
 5. Pillow
 
 # Algorithm
-Train the CNN model using the provided Jupyter notebook (Cifar_10.ipynb).
-Save the trained model to an .h5 file.
-Run the Flask application (app.py) to serve predictions via a simple web API.
+1. Train the CNN model using the provided Jupyter notebook (Cifar_10.ipynb).
+2. Save the trained model to an .h5 file.
+3. Run the Flask application (app.py) to serve predictions via a simple web API.
 
 # Application ScreenShots
 <img width="941" alt="image" src="https://github.com/Rith-Jhay/CIFAR-10-using-CNN-Flask-deployed-/assets/130302683/a26fbe53-2a80-4ade-9301-6c780d7ead34">
