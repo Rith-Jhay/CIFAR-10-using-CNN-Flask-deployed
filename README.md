@@ -1,4 +1,4 @@
-# CIFAR-10 using Convolutional Neural Network and Flask.
+# Flask-Integrated CNN for CIFAR-10.
 
 # Discription
 This project implements a Convolutional Neural Network (CNN) for image classification using the CIFAR-10 dataset. 
